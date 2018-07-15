@@ -1,0 +1,19 @@
+{
+  "name": "wordpress-theme-boilerplate",
+  "version": "1.0.0",
+  "description": "Wik's Wordpress Theme Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wik-z/wordpress-theme-boilerplate.git"
+  },
+  "author": "Wiktor Zawierucha @wik-z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wik-z/wordpress-theme-boilerplate/issues"
+  },
+  "homepage": "https://github.com/wik-z/wordpress-theme-boilerplate#readme"
+}
