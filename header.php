@@ -11,3 +11,6 @@
 </head>
 <body>
     <div id="app"> <!-- #app - root element for Vue  -->
+        <header>
+
+        </header>
