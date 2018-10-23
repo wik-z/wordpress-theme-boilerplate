@@ -7,7 +7,7 @@
     
     <?php wp_head() ?>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="<?php echo get_template_directory() ?>/assets/css/app.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="<?php echo mix('js/app.js') ?>" />
 </head>
 <body>
     <div id="app"> <!-- #app - root element for Vue  -->
